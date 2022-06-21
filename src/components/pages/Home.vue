@@ -236,7 +236,7 @@ img {
   text-transform: uppercase;
 }
 .contact-form .button:hover {
-  background: #ec522c;
+  opacity:0.9;
 }
 .contact-form input[type="email"],
 .contact-form input[type="text"],
