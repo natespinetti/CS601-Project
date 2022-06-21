@@ -25,4 +25,4 @@ Gallery (Travel Blog Area)<br>
 Client Projects<br>
 Design Projects<br>
 Other Projects<br><br>
-Make it responsive
+Make breakpoints throughout for mobile and tablet
