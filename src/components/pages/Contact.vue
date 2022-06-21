@@ -113,7 +113,7 @@ img {
 }
 .contact-form .button {
   transition: 0.5s;
-  background: #ec7e2c;
+  background: #011329;
   border: 0px;
   color: white;
   cursor: pointer;
