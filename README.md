@@ -24,4 +24,5 @@ Pages to come:
 Gallery (Travel Blog Area)<br>
 Client Projects<br>
 Design Projects<br>
-Other Projects
+Other Projects<br><br>
+Make it responsive
